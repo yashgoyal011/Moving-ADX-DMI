@@ -23,8 +23,8 @@ Built with Pine Script, it is designed for traders who want to quickly assess tr
 
 ## Installation
 1. Open **TradingView** and navigate to the **Pine Editor**.
-2. Copy the [indicator code](moving_average_adx_dmi.pine) into a new script.
-3. Save and add the indicator to your chart.
+2. Copy the [indicator code](Indicator.dmi) into a new script.
+4. Save and add the indicator to your chart.
 
 ## Usage
 - **Bullish Signal (Green MA)**: Enter long positions when the moving average turns green.
