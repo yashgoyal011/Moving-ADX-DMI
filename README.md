@@ -1,6 +1,6 @@
 # Moving Average ADX DMI Indicator
 
-![Indicator Example](screenshot.png) <!-- Add a screenshot if available -->
+![Indicator Example](ScreenShot.png) <!-- Add a screenshot if available -->
 
 A multi-colored moving average indicator for TradingView that combines the ADX (Average Directional Index) and DMI (Directional Movement Index) to detect strong trends and visualize bullish/bearish conditions.
 
