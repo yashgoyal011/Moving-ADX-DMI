@@ -23,7 +23,7 @@ Built with Pine Script, it is designed for traders who want to quickly assess tr
 
 ## Installation
 1. Open **TradingView** and navigate to the **Pine Editor**.
-2. Copy the [indicator code](Indicator.dmi) into a new script.
+2. Copy the [indicator code](Indicator.pine) into a new script.
 4. Save and add the indicator to your chart.
 
 ## Usage
