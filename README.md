@@ -55,8 +55,3 @@ Built with Pine Script, it is designed for traders who want to quickly assess tr
 - Best used in **trending markets** (avoid ranging markets).
 - Adjust parameters to suit your trading style (e.g., shorter periods for day trading).
 
-## Contributing
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
-
-## License
-MIT License. See [LICENSE](LICENSE) for details.
